@@ -73,7 +73,7 @@ const IndexPage = () => (
   <Layout>
     <div className={styles.textCenter}>
       <StaticImage
-        src="../images/example.png"
+        src="../images/jirafa.png"
         loading="eager"
         width={64}
         quality={95}
@@ -82,7 +82,7 @@ const IndexPage = () => (
         style={{ marginBottom: `var(--space-3)` }}
       />
       <h1>
-        Welcome to <b>Gatsby!</b>
+        Cristian WebServices
       </h1>
       <p className={styles.intro}>
         <b>Example pages:</b>{" "}
